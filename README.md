@@ -1,0 +1,1 @@
+SafeSip is an IOS app that was designed with the intentions of keeping you safe from drunk driving. It uses the Widmark formula to estimate blood-alcohol content and give some relative insight on when you may be legal to drive.
